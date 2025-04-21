@@ -423,7 +423,7 @@ Copy the workflow/ComfyUI-ACE_Plus folder into ComfyUI’s custom_nodes director
     <td>Controllable image-to-image translation capability. To preprocess depth and contour information from images, 
     we use externally-provided models that are typically downloaded from the ModelScope Hub. Because download success 
     can vary depending on the user's environment, we offer alternatives: users can either leverage existing community 
-    nodes (depth extration node or contour extraction node) for this task (then choosing the 'no_preprocess' option), 
+    nodes (depth extraction node or contour extraction node) for this task (then choosing the 'no_preprocess' option), 
     or users can pre-download the required models 
     <a href="https://www.modelscope.cn/models/iic/scepter_annotator/file/view/master?fileName=annotator%252Fckpts%252Finformative_drawing_contour_style.pth&status=2">contour</a> and
     <a href="https://www.modelscope.cn/models/iic/scepter_annotator/file/view/master?fileName=annotator%252Fckpts%252Fdpt_hybrid-midas-501f0c75.pt&status=2">depth</a>    
@@ -450,7 +450,7 @@ Copy the workflow/ComfyUI-ACE_Plus folder into ComfyUI’s custom_nodes director
     <td>Controllable image-to-image translation capability. To preprocess depth and contour information from images, 
     we use externally-provided models that are typically downloaded from the ModelScope Hub. Because download success 
     can vary depending on the user's environment, we offer alternatives: users can either leverage existing community 
-    nodes (depth extration node or contour extraction node) for this task (then choosing the 'no_preprocess' option), 
+    nodes (depth extraction node or contour extraction node) for this task (then choosing the 'no_preprocess' option), 
     or users can pre-download the required models 
     <a href="https://www.modelscope.cn/models/iic/scepter_annotator/file/view/master?fileName=annotator%252Fckpts%252Finformative_drawing_contour_style.pth&status=2">contour</a> and
     <a href="https://www.modelscope.cn/models/iic/scepter_annotator/file/view/master?fileName=annotator%252Fckpts%252Fdpt_hybrid-midas-501f0c75.pt&status=2">depth</a>    
